@@ -1,21 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="644e9e64-c0c8-4e92-a242-26fb11f239a0" name="Default Changelist" comment="" />
+    <list default="true" id="644e9e64-c0c8-4e92-a242-26fb11f239a0" name="Default Changelist" comment="init">
+      <change afterPath="$PROJECT_DIR$/CS224W-English/01-intro.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS224W-English/02-gnp-smallworld.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS224W-English/04-communities.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS224W-English/05-spectral.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS224W-English/06-collective.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS224W-English/07-noderepr.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS224W-English/08-GNN.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS224W-English/10-graph-gen.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS224W-English/11-pagerank.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS224W-English/12-cascades.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS224W-English/13-contagion.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS224W-English/14-influence.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS224W-English/15-outbreak.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS224W-English/16-evolution.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS224W-English/17-knowledge.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS224W-English/18-limitations.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS224W-English/19-applications.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS224W-English/CS224W-snappy-tutorial.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS224W-English/CS224W_LinAl_Prob_Proof.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS224W_Chinese/18-Limitations of Graph Neural Network.assets/v2-00d0913db34860aac1742cdbc93a519d_b-20200308183207642.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS224W_Chinese/18-Limitations of Graph Neural Network.assets/v2-12b57514b331856af910ff5cc5eb0228_b-20200308183207863.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS224W_Chinese/18-Limitations of Graph Neural Network.assets/v2-29b2de3979397ad3091e7756432590d1_b-20200308183208487.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS224W_Chinese/18-Limitations of Graph Neural Network.assets/v2-3a24e110dd9a79e06814eed38a79ec18_b-20200308183207631.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS224W_Chinese/18-Limitations of Graph Neural Network.assets/v2-3d7ac641ddf1398632d28e737da73a34_b-20200308183207765.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS224W_Chinese/18-Limitations of Graph Neural Network.assets/v2-40dda2d1b321e4e2f786c2caadff09c3_b-20200308183207564.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS224W_Chinese/18-Limitations of Graph Neural Network.assets/v2-47eb88ff1a8b8b34b8d8bc47e95e3749_b-20200308183208510.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS224W_Chinese/18-Limitations of Graph Neural Network.assets/v2-519c4100cf688f80960204d73ff8a429_b-20200308183207820.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS224W_Chinese/18-Limitations of Graph Neural Network.assets/v2-6f64ce1a28694761909c59c0d39f46eb_b-20200308183207772.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS224W_Chinese/18-Limitations of Graph Neural Network.assets/v2-70f6b9d802ff492e6e1724e0acd085d6_b-20200308183207831.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS224W_Chinese/18-Limitations of Graph Neural Network.assets/v2-7fcbd52497f28adef877dbfba4fd6808_b-20200308183208250.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS224W_Chinese/18-Limitations of Graph Neural Network.assets/v2-7ff549e5c136877827a6870c7f9c19f3_b-20200308183207910.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS224W_Chinese/18-Limitations of Graph Neural Network.assets/v2-8a0d3d2ba8cf84239602976caac61330_b-20200308183207697.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS224W_Chinese/18-Limitations of Graph Neural Network.assets/v2-8de2b1cd2827cf70d088384e3b09c006_b-20200308183207619.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS224W_Chinese/18-Limitations of Graph Neural Network.assets/v2-9d06ac83f5749e7e0dde57a8d702d25f_b-20200308183208027.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS224W_Chinese/18-Limitations of Graph Neural Network.assets/v2-bb0d88f7f25542a5b447bb49afd72a0e_b-20200308183207667.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS224W_Chinese/18-Limitations of Graph Neural Network.assets/v2-bc3d076931cbaac5bb4302880d785b78_b-20200308183208937.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS224W_Chinese/18-Limitations of Graph Neural Network.assets/v2-c04fd84320b91e798f4efa68bef37bfc_b-20200308183207944.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS224W_Chinese/18-Limitations of Graph Neural Network.assets/v2-c38b58b18a5c5092cc3e49a714f7d6d7_b-20200308183207726.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS224W_Chinese/18-Limitations of Graph Neural Network.assets/v2-cb6bdc36a1b42f4ecb2bb20578f002ac_b-20200308183207901.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS224W_Chinese/18-Limitations of Graph Neural Network.assets/v2-da8eccfd1a4bc5d911c09947ff7b1d95_b-20200308183207951.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS224W_Chinese/18-Limitations of Graph Neural Network.assets/v2-f037a991745e489a18f0c69311416ba2_b-20200308183208267.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS224W_Chinese/18-Limitations of Graph Neural Network.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1YqIaAZdalvkgBOEKUujMhjewy7" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -36,11 +91,34 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583663758267</updated>
-      <workItem from="1583663759641" duration="597000" />
+      <workItem from="1583663759641" duration="1152000" />
     </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1583666239535</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583666239536</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="145" y="87" key="CommitChangelistDialog2" timestamp="1583666655553">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="145" y="87" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1583666655553" />
+    <state x="240" y="140" key="Vcs.Push.Dialog.v2" timestamp="1583666476502">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="240" y="140" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1583666476502" />
   </component>
 </project>
