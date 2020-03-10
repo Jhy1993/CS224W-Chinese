@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="644e9e64-c0c8-4e92-a242-26fb11f239a0" name="Default Changelist" comment="" />
+    <list default="true" id="644e9e64-c0c8-4e92-a242-26fb11f239a0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,8 +12,8 @@
   <component name="Git.Settings">
     <option name="PUSH_TAGS">
       <GitPushTagMode>
-        <option name="argument" value="--tags" />
-        <option name="title" value="All" />
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
       </GitPushTagMode>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -35,6 +37,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -46,7 +49,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583663758267</updated>
-      <workItem from="1583663759641" duration="3972000" />
+      <workItem from="1583663759641" duration="4946000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1583666239535</created>
@@ -90,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583688764692</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="finish 18">
+      <created>1583689109299</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1583689109299</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,13 +113,21 @@
     <option name="LAST_COMMIT_MESSAGE" value="finish 18" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="121" y="87" key="CommitChangelistDialog2" timestamp="1583688764553">
+    <state x="121" y="87" key="CommitChangelistDialog2" timestamp="1583689108995">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="121" y="87" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1583688764553" />
-    <state x="240" y="140" key="Vcs.Push.Dialog.v2" timestamp="1583689085281">
+    <state x="121" y="87" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1583689108995" />
+    <state x="141" y="39" key="SettingsEditor" timestamp="1583689775716">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="240" y="140" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1583689085281" />
+    <state x="141" y="39" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1583689775716" />
+    <state x="240" y="140" key="Vcs.Push.Dialog.v2" timestamp="1583689783168">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="240" y="140" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1583689783168" />
+    <state x="428" y="251" key="git4idea.ui.GitTagDialog" timestamp="1583689489109">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="428" y="251" key="git4idea.ui.GitTagDialog/0.0.1280.800@0.0.1280.800" timestamp="1583689489109" />
   </component>
 </project>
