@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="644e9e64-c0c8-4e92-a242-26fb11f239a0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="644e9e64-c0c8-4e92-a242-26fb11f239a0" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,7 +47,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583663758267</updated>
-      <workItem from="1583663759641" duration="5397000" />
+      <workItem from="1583663759641" duration="5783000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1583666239535</created>
@@ -108,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583817197785</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="finish 8">
+      <created>1583819312545</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1583819312545</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,21 +122,22 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="init" />
     <MESSAGE value="finish 18" />
-    <option name="LAST_COMMIT_MESSAGE" value="finish 18" />
+    <MESSAGE value="finish 8" />
+    <option name="LAST_COMMIT_MESSAGE" value="finish 8" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="121" y="87" key="CommitChangelistDialog2" timestamp="1583817196093">
+    <state x="121" y="87" key="CommitChangelistDialog2" timestamp="1583819312349">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="121" y="87" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1583817196093" />
+    <state x="121" y="87" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1583819312349" />
     <state x="141" y="39" key="SettingsEditor" timestamp="1583689775716">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="141" y="39" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1583689775716" />
-    <state x="240" y="140" key="Vcs.Push.Dialog.v2" timestamp="1583817205504">
+    <state x="240" y="140" key="Vcs.Push.Dialog.v2" timestamp="1583819320627">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="240" y="140" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1583817205504" />
+    <state x="240" y="140" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1583819320627" />
     <state x="428" y="251" key="git4idea.ui.GitTagDialog" timestamp="1583689489109">
       <screen x="0" y="0" width="1280" height="800" />
     </state>

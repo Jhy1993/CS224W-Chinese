@@ -306,4 +306,40 @@ btw，问了一下，之所以我们不go太过deeper，一方面引入太多的
 
 ![img](8_Graph_Neural_Network.assets/v2-5f51ef654d2ad235c597bd903bfaa18e_1440w.jpg)
 
+## GCN
 
+从GCN过渡到graphsage的过程是非常自然，二者的不同之处仅仅是box处做了一些修改：
+
+![img](8_Graph_Neural_Network.assets/v2-252e5eb0dc002dd7956b77647c6202f5_1440w.jpg)
+
+这里提到了weighted average，实际上指的就是当图为带权图的时候，我们进行average之前，每个节对应的要乘上edge的权重再平均，这实际上也是很好理解的，比如我认识很多大佬，但是大佬们都不认识我，所以他们收入高跟我可能没什么关系，我们之间的edge的权重可能是0.001.。。。。。
+
+![img](8_Graph_Neural_Network.assets/v2-9b591856199e4690cd3b3dca0f6af10f_1440w.jpg)
+
+比较一下：
+
+![img](8_Graph_Neural_Network.assets/v2-3f346fa4266b61f5ce70ace8790c8a85_1440w.jpg)
+
+这里，我们从广义的角度上来定义聚合函数，即我们在GCN中使用的是简单的邻居的聚合，而在graphsage中，这个聚合函数的形式更加多样：
+
+![img](8_Graph_Neural_Network.assets/v2-b3dfc3976ef6bc0aa4de4a7a10fa53af_1440w.jpg)
+
+我们可以使用原来的mean的策略；也可以使用pooling的策略；甚至可以加一个LSTM进来，只不过因为lstm是序列相关的，而我们的节点是无序的，所以处理方法就是对节点进行几次shuffle，每次shuffle的结构都当作一个有order的序列然后传入LSTM进行训练；
+
+
+
+总结一下，graphsage做了两个改变：
+
+1、定义了广义的聚合函数，除了原来的mean之外，还会进行pool或者lstm的操作；
+
+2、target node的embedding不再是和其领节点的embedding直接进行代数运算而是进行了concat的操作。
+
+![img](8_Graph_Neural_Network.assets/v2-a6291fd325031fa71a026ff93a96c421_1440w.jpg)
+
+比如这里看右上角的A和C，GCN里A和C相加平均进入box，而graphsage是A和C进行concat之后进入box的，并且这里的box前的箭头也不再是简单的mean，还有pooling等操作。
+
+ok，That's it~
+
+**更多关于图神经网络/图表示学习/推荐系统, 欢迎关注我的公众号 【图与推荐】**
+
+![image-20200311155057632](8_Graph_Neural_Network.assets/image-20200311155057632.png)
