@@ -20,17 +20,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="644e9e64-c0c8-4e92-a242-26fb11f239a0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CS224W_Chinese/1_Introduction.assets/v2-154ea94eaf4755a6655ebbe44e47485b_1440w.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CS224W_Chinese/1_Introduction.assets/v2-1acda607b157e2c719d51cbff4ed7d84_1440w.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CS224W_Chinese/1_Introduction.assets/v2-26feec271b1a0cfa7973b19ae9b02411_1440w.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CS224W_Chinese/1_Introduction.assets/v2-320eddd58a088fafc6c37a0894a0e01b_1440w.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CS224W_Chinese/1_Introduction.assets/v2-3558d0afbab4fc445f7807aef2b54c9b_1440w.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CS224W_Chinese/1_Introduction.assets/v2-6e8c501e83e7e9d8fe52c9e9a10cd442_1440w.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CS224W_Chinese/1_Introduction.assets/v2-c7d6dd455dd6bfa4c6fac342839c2ce0_ipico.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CS224W_Chinese/1_Introduction.assets/v2-d90b9beaf3c2687ade99cbba0dc24cf2_1440w.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CS224W_Chinese/1_Introduction.assets/v2-e2f5830d4470cea1a121fdd34eb91ad1_1440w.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CS224W_Chinese/1_Introduction.assets/v2-f29fb4d3d1e1af099b007729fb55b1ca_1440w.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CS224W_Chinese/1_Introduction.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS224W_Chinese/2_Properties_of_Networks_Random_Graph.assets/v2-196a6378365ef6640fec9c7ebc03393d_1440w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS224W_Chinese/2_Properties_of_Networks_Random_Graph.assets/v2-250ecb1bb38b312ec7f326152c45a374_1440w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS224W_Chinese/2_Properties_of_Networks_Random_Graph.assets/v2-2d9beea2bcab25e34432f57dd080c7a0_1440w.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS224W_Chinese/2_Properties_of_Networks_Random_Graph.assets/v2-3c5c26af992ec134bc106e5b9caeacb0_1440w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS224W_Chinese/2_Properties_of_Networks_Random_Graph.assets/v2-3d9e096135d5ac848d2c5ee8f923d60f_1440w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS224W_Chinese/2_Properties_of_Networks_Random_Graph.assets/v2-64f2fd0990f1b84b6684c6e9a0ecac07_1440w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS224W_Chinese/2_Properties_of_Networks_Random_Graph.assets/v2-6d7e59891baab2cb21c553c4f605ddf7_1440w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS224W_Chinese/2_Properties_of_Networks_Random_Graph.assets/v2-8ad655b303e94197ece43a10e436adcd_1440w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS224W_Chinese/2_Properties_of_Networks_Random_Graph.assets/v2-a15ea9b90808df88882a7f3d8a2fedea_1440w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS224W_Chinese/2_Properties_of_Networks_Random_Graph.assets/v2-b769fa4340f521c30cdc287e19ed36df_1440w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS224W_Chinese/2_Properties_of_Networks_Random_Graph.assets/v2-c0cd743ffb2c8f2fae21535a33791ec1_1440w.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS224W_Chinese/2_Properties_of_Networks_Random_Graph.assets/v2-c257adbf33721a19e6f8241d437df3bd_1440w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS224W_Chinese/2_Properties_of_Networks_Random_Graph.assets/v2-c34e60483eb9211d53e5c2c39df6daa2_1440w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS224W_Chinese/2_Properties_of_Networks_Random_Graph.assets/v2-cd0ed105af6346ef54130a23efd959fb_1440w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS224W_Chinese/2_Properties_of_Networks_Random_Graph.assets/v2-d50b6b62d4e854c77ecbfa6fa2b2150a_1440w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS224W_Chinese/2_Properties_of_Networks_Random_Graph.assets/v2-d6a00dba43e7e9757a4b01caa7bbdec9_1440w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS224W_Chinese/2_Properties_of_Networks_Random_Graph.assets/v2-dac5feb92ad0493444bec9af15bca8b0_180x120.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS224W_Chinese/2_Properties_of_Networks_Random_Graph.assets/v2-de389244a2632105f93c9c5762215181_1440w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS224W_Chinese/2_Properties_of_Networks_Random_Graph.assets/v2-e2c4fea7e87a2399af1a5fdac62ac1df_1440w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS224W_Chinese/2_Properties_of_Networks_Random_Graph.assets/v2-e7d8f7cb15b9da7a8124744bb106ce18_1440w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS224W_Chinese/2_Properties_of_Networks_Random_Graph.assets/v2-e88cb601fc14ca4d39ab1b8f3d65d9b5_1440w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS224W_Chinese/2_Properties_of_Networks_Random_Graph.assets/v2-e9c1d0208eee941bbecdb15d5cda16b9_1440w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS224W_Chinese/2_Properties_of_Networks_Random_Graph.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,7 +93,7 @@
       <workItem from="1583663759641" duration="5783000" />
       <workItem from="1583913088302" duration="193000" />
       <workItem from="1583930303896" duration="347000" />
-      <workItem from="1584358894885" duration="448000" />
+      <workItem from="1584358894885" duration="1776000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1583666239535</created>
@@ -153,7 +165,21 @@
       <option name="project" value="LOCAL" />
       <updated>1583913133982</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="add 1.1">
+      <created>1584602785960</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1584602785960</updated>
+    </task>
+    <task id="LOCAL-00012" summary="add 1.1">
+      <created>1584602950114</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1584602950114</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -177,21 +203,22 @@
     <MESSAGE value="finish 18" />
     <MESSAGE value="finish 8" />
     <MESSAGE value="finish 8.2" />
-    <option name="LAST_COMMIT_MESSAGE" value="finish 8.2" />
+    <MESSAGE value="add 1.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="add 1.1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="121" y="87" key="CommitChangelistDialog2" timestamp="1583913133238">
+    <state x="121" y="87" key="CommitChangelistDialog2" timestamp="1584602949929">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="121" y="87" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1583913133238" />
+    <state x="121" y="87" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1584602949929" />
     <state x="141" y="39" key="SettingsEditor" timestamp="1583689775716">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="141" y="39" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1583689775716" />
-    <state x="240" y="140" key="Vcs.Push.Dialog.v2" timestamp="1583913141089">
+    <state x="240" y="140" key="Vcs.Push.Dialog.v2" timestamp="1584602958914">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="240" y="140" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1583913141089" />
+    <state x="240" y="140" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1584602958914" />
     <state x="428" y="251" key="git4idea.ui.GitTagDialog" timestamp="1583689489109">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
